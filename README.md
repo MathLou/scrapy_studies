@@ -1,7 +1,7 @@
 # scrapy_studies
 Repo for scrapy studies
 ## For CHALLENGE.md
-Parts 4/5 were done!
+Parts 1,2,3 and 4 were done! Part 5 didn't have too much time.
 ### Answering few uestions:
 - **How long the full crawl takes**: 
 - **One thing that broke and how you found it**: during pipeline, image links were relative not absolute, so I concatenated with the root link.
