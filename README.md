@@ -11,3 +11,5 @@ Parts 1,2,3 and 4 were done! Part 5 didn't have too much time.
 OK — 1000 books
 Cheapest: An Abundance of Katherines
 ```
+### Repository organization:
+This was publish by hand, not using git directly vscode - a point to improve. There aren't also `requirements.txt` and `a .gitignore`.
